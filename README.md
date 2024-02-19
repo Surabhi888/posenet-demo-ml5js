@@ -1,1 +1,1 @@
-A posenet demo built using mlSjs
+A posenet demo built using ml5.js
